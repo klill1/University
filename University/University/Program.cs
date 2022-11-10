@@ -12,6 +12,8 @@ using University.Data;
 
 namespace University
 {
+
+    // Test concurrency conflicts juurde jäin - Handle concurrency conflicts .
     public class Program
     {
         public static void Main(string[] args)
